@@ -1,17 +1,14 @@
 find.py
 
-This file downloads high-quality images from Pixabay based 
-on a given keyword using Playwright and Requests libraries
+This file downloads high-quality images from Pixabay based \n
+on a given keyword using Playwright and Requests libraries  \n
 
+here, KEYWORD = "cat" \n
+so it downloades cats images \n
 
-here, KEYWORD = "cat"
+\n
+classify.py \n
 
-so it downloades cats images
-
-
-
-classify.py
-
-Using Yolov8 model the downloaded images are classified.
-good images are coppied to /classify/good
-bad images are coppied to /classify/bad
+Using Yolov8 model the downloaded images are classified.\n
+good images are coppied to /classify/good \n
+bad images are coppied to /classify/bad   \n
