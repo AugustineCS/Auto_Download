@@ -1,5 +1,7 @@
 find.py
 
+-----------
+
 
 This file downloads high-quality images from Pixabay based
 
@@ -12,6 +14,8 @@ so it downloades cats images
 
 
 classify.py 
+
+------------------
 
 Using Yolov8 model the downloaded images are classified.
 
